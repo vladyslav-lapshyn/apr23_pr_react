@@ -2,7 +2,7 @@
 
 > Here is [the working version](https://mate-academy.github.io/react_product-categories-practice/)
 
-You are given markup for a table of products and 3 arrays. 
+You are given markup for a table of products and 3 arrays.
 Implement as much options below as you can:
 
 1. Render products in a table with id, name, category and an owner (user).
@@ -36,7 +36,6 @@ Implement as much options below as you can:
   - [DEMO LINK](https://<your-account>.github.io/<your-repo-name>)
 - implement tasks one by one (You can do it in the `App.jsx`)
 - `commit`, `push` and `deploy` after each task
-- Send a link to your `App.jsx` file to your personal Slack channel (for example #fe_apr22_misha_hrynko)
-- Send a message about solving the next step after each `push` and `deploy` (e.g. Task 3 is done)
-- If you are done with the required tasks please proceed solving the optional once
 - Stop when the time is over (typically 2.5 hours from start)
+- Create pull request and fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSdtELbVv6mtCWH3rt4yjatnVz0RIp3GNSvQrjdlLxSLznx92A/viewform) (Please use the same email that you used on the platform.
+  )
